@@ -64,19 +64,6 @@ I'm a software developer at **Rodosoft Tecnologia** with **3+ years of experienc
 | [**BPP**](https://github.com/eroskarsburg/BPP) | Clean Code, Refactoring and Design Patterns applied in C#. | C# |
 | [**portfolio**](https://github.com/eroskarsburg/portfolio) | Personal portfolio built from scratch with an interactive terminal and a live payment flow simulator. | Next.js · React · TypeScript |
 
-## GitHub stats
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=eroskarsburg&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=c9d1d9&icon_color=512BD4" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=eroskarsburg&show_icons=true&hide_border=true&icon_color=512BD4" alt="GitHub stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=eroskarsburg&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=c9d1d9" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eroskarsburg&layout=compact&hide_border=true" alt="Top languages" />
-  </picture>
-</p>
-
 ---
 
 <p align="center">
