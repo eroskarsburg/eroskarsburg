@@ -1,7 +1,7 @@
 <h1 align="center">Eros Karsburg</h1>
 
 <p align="center">
-  <b>Full Stack Software Engineer · .NET / C#</b><br/>
+  <b>Full Stack Software Engineer · .NET / C#</b> — https://eroskarsburg.com.br<br/>
   Building reliable web applications, APIs and mission-critical payment systems.
 </p>
 
